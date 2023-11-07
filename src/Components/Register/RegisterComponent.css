@@ -1,0 +1,12 @@
+@media (min-width: 767px) {
+    .main-div-register{
+        width: 25rem;
+        margin-top: 2rem;
+        margin-left: 2rem;
+    }
+}
+@media (max-width: 767px) {
+    .main-div-register{
+        margin: 1rem;        
+    }
+}

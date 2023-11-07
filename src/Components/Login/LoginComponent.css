@@ -1,0 +1,11 @@
+.main-div-login{
+    width: 25rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+@media(max-width:600px){
+    .main-div-login{
+        width: 100% !important;
+        
+    }
+}
