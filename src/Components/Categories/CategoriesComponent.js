@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const CategoriesComponent = () => {
 
     return (
-        <div className="container-fluid">
+        <div className="container-fluid categories-div">
             <nav class="navbar navbar-expand-lg navbar-light row w-100">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -26,9 +26,7 @@ const CategoriesComponent = () => {
                         <li class="nav-item">
                             <a class="nav-link" href="#">Vehicles</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Pricing</a>
-                        </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="#">Properties</a>
                         </li>

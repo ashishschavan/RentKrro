@@ -1,0 +1,36 @@
+.product-card-details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.product-img{
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+}
+.product-price-box{
+    text-align: start;
+    border: 0.1rem;
+    border-color: lightgrey;
+    border-style: solid;
+    /* margin: 1rem; */
+    background-color: white;
+    padding: 1rem;
+}
+
+.product-card{
+    background-color: #f1f1f1 !important;
+}
+
+.product-owner-box{
+    text-align: start;
+    border: 0.1rem;
+    border-color: lightgrey;
+    border-style: solid;
+    /* margin: 1rem; */
+    background-color: white;
+    padding: 1rem;
+    margin-top: .5rem;
+}

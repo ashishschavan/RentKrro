@@ -5,10 +5,10 @@ const HeadNavComponent = () => {
 
     return (
         <nav className="navbar navbar-expand-md navbar-light bg-light ">
-        <div className="container-fluid  ">
-          <div className='col-2 '>
-            <Link className="navbar-brand " to="/">
-              RentBazaar
+        <div className="container-fluid d-flex  align-items-center">
+          <div className='col-2' >
+            <Link className="navbar-brand" to="/">
+              <h3>RentBazaar</h3>
             </Link>
           </div>
           <div className='col-8 d-flex'>

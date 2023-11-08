@@ -1,3 +1,8 @@
 .categories-blocks{
-    margin-right: 3rem !important;
+}
+.categories-div{
+    background-color: white;
+    border: 0.1rem;
+    border-color: lightgrey;
+    border-style: solid;
 }
