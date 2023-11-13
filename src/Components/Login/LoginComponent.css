@@ -1,11 +1,28 @@
 .main-div-login{
-    width: 25rem;
-    margin-top: 2rem;
-    margin-left: 2rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-left: 37%;
+    padding-right: 37%;
+    padding-top: 5%;
+
 }
 @media(max-width:600px){
     .main-div-login{
         width: 100% !important;
         
     }
+}
+
+.google-login{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: -webkit-center;
+    margin-top: 1rem;
+}
+.or-login{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: gray;
 }
